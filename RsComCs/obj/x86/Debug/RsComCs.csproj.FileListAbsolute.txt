@@ -1,0 +1,55 @@
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\bin\Debug\RsComCs.exe
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\bin\Debug\RsComCs.pdb
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\RsComCs.Main.resources
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\RsComCs.Properties.Resources.resources
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\RsComCs.exe
+C:\Users\PSH\documents\visual studio 2010\Projects\RsComCs\RsComCs\obj\x86\Debug\RsComCs.pdb
+C:\Users\PSH\Desktop\RSCOM.NET\RsComCs\RsComCs\obj\x86\Debug\RsComCs.exe
+C:\Users\PSH\Desktop\RSCOM.NET\RsComCs\RsComCs\obj\x86\Debug\RsComCs.pdb
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\RsComCs.exe
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\RsComCs.pdb
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\bin\Debug\RsComCs.exe
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\bin\Debug\RsComCs.pdb
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\RsComCs.Main.resources
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\RsComCs.Properties.Resources.resources
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\PSH\Desktop\RsComCsModify\RsComCs\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\bin\Debug\RsComCs.exe
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\bin\Debug\RsComCs.pdb
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.Main.resources
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.Properties.Resources.resources
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.exe
+C:\Users\PSH\Desktop\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.pdb
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.exe
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.pdb
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\bin\Debug\RsComCs.exe
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\bin\Debug\RsComCs.pdb
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.Main.resources
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.Properties.Resources.resources
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\ResGen.read.1.tlog
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\WORK\NET Project\RsCom .NET Project\RsCom C#\RsComCs\obj\x86\Debug\ResGen.write.1.tlog
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.exe
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.pdb
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\bin\Debug\RsComCs.exe
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\bin\Debug\RsComCs.pdb
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.Main.resources
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\RsComCs.Properties.Resources.resources
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\ResGen.read.1.tlog
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\WORK\NET Project\RsComnet\RsCom C#\RsComCs\obj\x86\Debug\ResGen.write.1.tlog
